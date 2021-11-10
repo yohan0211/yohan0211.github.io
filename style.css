@@ -54,12 +54,17 @@ footer {
 }
 
 nav {
+    text-align: center;
     margin-top: 3rem;
     margin-bottom:3rem;
 
 }
 nav a{
+    text-align: center;
     font-family: 'Grenze Gotisch', cursive;
     font-size: 2rem;
-    
+
+}
+p {
+    margin: 0.5rem;
 }
